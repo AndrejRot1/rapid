@@ -1,1 +1,1 @@
-# an app for searchin on rapid
+# An app for searchin on rapid
